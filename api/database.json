@@ -1,0 +1,70 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alyssa Nycum",
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Kayce Hackett",
+            "departmentId": 1,
+            "computerId": 3
+        },
+        {
+            "id": 3,
+            "name": "Mike Manning",
+            "departmentId": 3,
+            "computerId": 4
+        },
+        {
+            "id": 4,
+            "name": "Kate McConnell",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 5,
+            "name": "Hollie Frazier",
+            "departmentId": 3,
+            "computerId": 5
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "department": "Birds"
+        },
+        {
+            "id": 2,
+            "department": "Hoofstock"
+        },
+        {
+            "id": 3,
+            "department": "Carnivore"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "computer": "Mac #1"
+        },
+        {
+            "id": 2,
+            "computer": "Mac #2"
+        },
+        {
+            "id": 3,
+            "computer": "Mac #3"
+        },
+        {
+            "id": 4,
+            "computer": "PC #1"
+        },
+        {
+            "id": 5,
+            "computer": "PC #2"
+        }
+    ]
+}
